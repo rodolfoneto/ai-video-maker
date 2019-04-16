@@ -68,3 +68,7 @@ content.json
 
 # directory for downloaded content or generated content
 content/*.png
+content/*.jpg
+
+# Mac Auto Generate Files
+.DS_Store
