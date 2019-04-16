@@ -65,3 +65,6 @@ credentials/*.json
 
 # file content. state of application
 content.json
+
+# directory for downloaded content or generated content
+content/*.png
