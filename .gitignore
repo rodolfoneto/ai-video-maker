@@ -62,3 +62,6 @@ typings/
 
 # credentials
 credentials/*.json
+
+# file content. state of application
+content.json
